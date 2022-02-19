@@ -1,0 +1,2 @@
+disculpame pero despues de intentar realmente ver un patron que presenten los numeros pares e impares y que sea detectable por la computadora no encontre nada 
+intente dividir entre 2 los numeros pero solo me dejaba igual al igual que restarle posteriormente 0.5 estoy seguro de que si se puede esto pero no se me ocurre como
